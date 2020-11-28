@@ -107,7 +107,7 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database3.JPG)
 
-
+5.
 
 
 ## 3.5 Create OFS
@@ -177,5 +177,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzMDg1ODhdfQ==
+eyJoaXN0b3J5IjpbMTMzNTc4NjM1NSw1ODMwODU4OF19
 -->
