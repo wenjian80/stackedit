@@ -107,7 +107,14 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database3.JPG)
 
-5.
+5. Name the below. Please follow.
+> Database name: soadb
+
+> Pdb: pdb1
+
+>Password: WelcomE1234##
+
+
 
 
 ## 3.5 Create OFS
@@ -177,5 +184,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTc4NjM1NSw1ODMwODU4OF19
+eyJoaXN0b3J5IjpbLTM4NzI2NjQzNiw1ODMwODU4OF19
 -->
