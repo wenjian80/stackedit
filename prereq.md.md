@@ -142,6 +142,14 @@
 
 ## 3.6 Configure network rules
 
+1. For lab purpose, we are going to open any to any.
+
+2. Click on Virtual network
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/vnc1.JPG)
+
+3. 
+
 
 ## 3.7 Check all information
 
@@ -204,5 +212,6 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzg2Mjg3MywxNjE0NjAwMjYzXX0=
+eyJoaXN0b3J5IjpbMTI1MDk2NTIzMCwxMzAzODYyODczLDE2MT
+Q2MDAyNjNdfQ==
 -->
