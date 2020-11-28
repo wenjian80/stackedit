@@ -109,7 +109,7 @@
 
 5. Name the host name as "soadb". Jot down the "Host domain name". Choose the subnet and vcn that was used in the compute eariler.
 
-
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database5.JPG)
 
 
 6. Name the below. Please follow.
@@ -191,5 +191,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI4MDc0NzUsMTY1NzI5MjEwN119
+eyJoaXN0b3J5IjpbMTYzOTk3NDIyOF19
 -->
