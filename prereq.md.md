@@ -34,10 +34,13 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/putty_timeout.JPG)
 
+3. Login to the server
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/putty_login.JPG)
 
 ## Notepad++ Perferences
 Notepad++ need to set the yaml perferences and escape
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDcyODY0MV19
+eyJoaXN0b3J5IjpbLTYxMTc3NTYzLC03MzA3Mjg2NDFdfQ==
 -->
