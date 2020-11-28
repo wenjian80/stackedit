@@ -18,13 +18,20 @@
 ## 3.1 Login to oracle cloud
 
 1. Login to [http://cloud.oracle.com/](http://cloud.oracle.com/)
+
 2. Enter your cloud tenancy name
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/oracelcloud_1.JPG)
+
 3. Login using your using name and password
 
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/oracelcloud_2.JPG)
 
-4. Document steps to create compute, vcn. Sssh key need to zip up with password and share in git.
-25. Document steps to create database
-36. Document steps to create OFS.
+## 3.2 Provision Database
+
+6. Document steps to create compute, vcn. Sssh key need to zip up with password and share in git.
+7. Document steps to create database
+8. Document steps to create OFS.
 
 # 4. Tools
 1. [Download Notepad++](https://portableapps.com/apps/development/notepadpp_portable)
@@ -64,5 +71,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3MzU1ODY1LC04NzczODY0MjBdfQ==
+eyJoaXN0b3J5IjpbODM3OTE5MjIsLTg3NzM4NjQyMF19
 -->
