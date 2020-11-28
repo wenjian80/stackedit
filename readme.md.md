@@ -203,7 +203,12 @@ PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 
 ### **Change the NFS ip**
 1. Open up [12_Mount_File.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/12_Mount_File.sh) and replace the [INPUT_ID].
-2. Open up your labinfo,txt 
+2. Open up your labinfo,txt, input the nfs ip into here.
+
+    #PUT FILE SYSTEM IP HERE
+    #Eg sudo mount 10.0.0.5:/soashared /soashared
+    sudo mount [INPUT_ID]:/soashared /soashared
+
 
 ## Step 13: 13_Soa_pv.sh
 **[Run on master node ONLY]**
@@ -230,5 +235,6 @@ PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg5NTkwLC0xMTMwMDE1NDk1XX0=
+eyJoaXN0b3J5IjpbLTEyNDMyOTU0MDgsLTExMzAwMTU0OTVdfQ
+==
 -->
