@@ -31,7 +31,9 @@
 
 1. Go to Compute -> Instance
 
-2. Click on 
+2. Click on "Create Instance"
+
+3. 
 
 ## 3.3 Provision Worker Compute
 
@@ -82,5 +84,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzc3OTk4MSwtODc3Mzg2NDIwXX0=
+eyJoaXN0b3J5IjpbNzY2MDUxMTg5LC04NzczODY0MjBdfQ==
 -->
