@@ -93,6 +93,7 @@
 
 ## 3.4 Provision Database
 
+1. Click on 
 
 ## 3.5 Create OFS
 
@@ -161,5 +162,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDIxMDgxXX0=
+eyJoaXN0b3J5IjpbLTk4MzIxODEyOSwtMjIwMjEwODFdfQ==
 -->
