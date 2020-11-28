@@ -72,7 +72,7 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute_4.JPG)
 
-6. Click on "compute" and jot down the public ip of your master node. in lab
+6. Click on "compute" and jot down the public ip of your master node in labinfo.txt
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute5.jpg)
 
@@ -90,6 +90,7 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute7.JPG)
 
+5. Click on "compute" and jot down the public ip of your worker node in labinfo.txt
 
 ## 3.4 Provision Database
 
@@ -107,7 +108,7 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database3.JPG)
 
-5. Name the host name as "soadb". Jot down the "Host domain name". Choose the subnet and vcn that was used in the compute eariler.
+5. Name the host name as "soadb". Jot down the "Host domain name" in labinfo.txt. Choose the subnet and vcn that was used in the compute earlier.
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database5.JPG)
 
@@ -191,5 +192,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODgyMjMxNiwxNjM5OTc0MjI4XX0=
+eyJoaXN0b3J5IjpbLTIwNzk2MTA0OTgsMTYzOTk3NDIyOF19
 -->
