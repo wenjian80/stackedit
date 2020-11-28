@@ -120,7 +120,9 @@ TODO to explain steps
 
     kubectl proxy
 
-5. Run the below command line
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/kubectlproxy.JPG)
+
+5. And use the token to login to the d
 
 ## Step 8: 8_Git_helm.sh
 **[Run on master node ONLY]**
@@ -161,5 +163,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM5NTk0MSwxODkzNDcwNDA1XX0=
+eyJoaXN0b3J5IjpbMTU3NTAxNTM4MCwxODkzNDcwNDA1XX0=
 -->
