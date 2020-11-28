@@ -88,14 +88,15 @@ TODO to explain steps
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/node_ready.JPG)
 
-4. Now go in the master node and type the below command to check the status.
+3. Now go in the master node and type the below command to check the status.
 
      kubectl get po
 
 ## Step 6: 6_Check_Kubedns.sh
 **[Run on master node ONLY]**
 
-1. 
+1. This steps is to check if k8 networking is setup properly and the nodes can communicate via cluster ip and k8 networking.
+2. 
  
 ## Step 7: 7_Kube_proxy.sh
 **[Run on master node ONLY]**
@@ -139,5 +140,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjY5MjMyNV19
+eyJoaXN0b3J5IjpbNjg4NTEyNjI1XX0=
 -->
