@@ -102,6 +102,7 @@
 
 1. you should have all these in place in your notepad by now. Below is a example of information you should already have jot down.
 
+Below Sample that you shoould have in your notepad.
 > Cloud Tenancy: mycloud
 
 > Cloud username/password: abc@gmail.com/welcome1
@@ -116,7 +117,7 @@
 
 > Database private ip: 10.0.0.23
 
-> Database subnet: 
+> Database subnet: subnet11251534.vcn11251534.oraclevcn.com
 
 > NFS ip: 10.0.0.4
 
@@ -158,5 +159,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjkyNTA1NCwtNDY0OTM5NTIwXX0=
+eyJoaXN0b3J5IjpbMjkyNjE0OTI2XX0=
 -->
