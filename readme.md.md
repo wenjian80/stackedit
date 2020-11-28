@@ -290,9 +290,11 @@ kubectl get pv,pvc -n soans
 
 # Reference Links
 
-TODO
-
+1. [Weblogic Operator doc](https://oracle.github.io/weblogic-kubernetes-operator/userguide/introduction/introduction/)
+2. [Weblogic Operator git](https://github.com/oracle/weblogic-kubernetes-operator)
+3. [FMW Soa Operator doc](https://oracle.github.io/weblogic-kubernetes-operator/userguide/managing-domains/fmw-infra/)
+4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDc5NDkzN119
+eyJoaXN0b3J5IjpbMjA5NjMyNjQ1NSwxNDU0Nzk0OTM3XX0=
 -->
