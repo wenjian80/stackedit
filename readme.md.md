@@ -57,13 +57,14 @@ TODO to explain steps
 ## Step 3: 3_KubeNode_Firewall_Config.sh
 **[Run on worker node ONLY]**
 
-1 **This script run on on worker node ONLY.**
+1. **This script run on on worker node ONLY.**
 2. Same as step 2. We are setting the pre-req for k8.
 
 ## Step 4: 4_KubeMaster_Kubernetes_Config.sh
 **[Run on master node ONLY]**
 
  1. **This script run on on master node ONLY.** Once the prereq has been set. 
+
  2. We are running the steps to set up this node as the master
     node. 
     
@@ -72,7 +73,7 @@ TODO to explain steps
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/master_ready.JPG)
 
-**4. You will need to copy the last output of the kubeadm join on step 5 for the worker node to join the cluster**
+4. **You will need to copy the last output of the kubeadm join on step 5 for the worker node to join the cluster**
 
 ## Step 5: 5_KubeNode_Kubernetes_Config.sh
 **[Run on worker node ONLY]**
@@ -138,5 +139,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk0MzQ3MTUsLTg3MzAzMzQzXX0=
+eyJoaXN0b3J5IjpbLTMzNTAyNzg3N119
 -->
