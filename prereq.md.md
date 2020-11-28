@@ -40,6 +40,9 @@
 
 ## Winscp timeout and ssh key
 
+1. Click on Advanced->Ssh->Autentication and input your private key
+
+
 
 ## Notepad++ Perferences
 
@@ -49,5 +52,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM4NDk0OTksMzYxNTYwODc2XX0=
+eyJoaXN0b3J5IjpbLTEzNTI2OTk4MTksMzYxNTYwODc2XX0=
 -->
