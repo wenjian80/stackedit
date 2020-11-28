@@ -333,7 +333,8 @@ http://[workernodeip]:32100/login
 ```
 
 ## **Import dashboard**
-1. Import 
+1. Import [weblogic_dashboard](https://github.com/wenjian80/soak8_labs/blob/main/scripts/weblogic_dashboard.json) into Grafana 
+2. Login to Grafana click on Managed->Import and choose the j
 
 # Oracle Reference Links
 
@@ -344,5 +345,5 @@ http://[workernodeip]:32100/login
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzAyNzM0NiwxMzgzMDIzMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0MzQ2Mjk0MzYsMTM4MzAyMzI1XX0=
 -->
