@@ -65,7 +65,9 @@ TODO to explain steps
 
 1 **This script run on on master node ONLY.**
 2. Once the prereq has been set. We are running the steps to set up this node as the master node.
-3. At the end of this script it will provide you a command for worker
+3. At the end of this script it will provide you a command for worker node to join the cluster and communicate to this master node. You will need to copy the last command 
+
+
 ## Step 5: 5_KubeNode_Kubernetes_Config.sh
 **[Run on worker node ONLY]**
 
@@ -114,6 +116,6 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkyODQ2OTAsLTE3NDczMDI1MTgsMT
-I5NTU3MTM1N119
+eyJoaXN0b3J5IjpbLTI4OTM0OTIyNCwtMTc0NzMwMjUxOCwxMj
+k1NTcxMzU3XX0=
 -->
