@@ -170,7 +170,8 @@ Get all resource all namespace
 
 ### **Chnage username and password**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
-2. Open up your labinfo.txt, find what is your
+2. Open up your labinfo.txt, find what is your Oracle account username/password and replace it. This is the account to login to container-registry.oracle.com. You must accept the agreement otherwise it will have error.
+
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
 
@@ -201,5 +202,5 @@ Get all resource all namespace
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Njg4MTM4NSwtNTA1MDU1NjldfQ==
+eyJoaXN0b3J5IjpbLTEwMTYyNTU0OTMsLTUwNTA1NTY5XX0=
 -->
