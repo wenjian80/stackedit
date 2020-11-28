@@ -39,7 +39,8 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute_2.JPG)
 
-4. Select the name as "soak8master" under "root" compartment
+4. Select the shape as "2.4". Select "Create a new virtual Network". Name the vcn as "soak8vcn" under "root" compartment. Name the subnet as 
+5. 
 
 
 
@@ -92,5 +93,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIxODk5ODgsMzg5NDE5MTc5XX0=
+eyJoaXN0b3J5IjpbMTM4ODExOTU2NCwzODk0MTkxNzldfQ==
 -->
