@@ -274,6 +274,10 @@ kubectl get pv,pvc -n soans
 ## Step 14: 14_Soa_DomainJob.sh
 **[Run on master node ONLY]**
 
+1. **This script run on on master node ONLY.**
+2. **You need to make change to the below before running the script**
+1. This script will create a job inside k8 to create the necessary files in the shared storage.
+
 ## Step 15: 15_Soa_DomainConfig.sh
 **[Run on master node ONLY]**
 
@@ -297,5 +301,5 @@ kubectl get pv,pvc -n soans
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTY5NTkzMywxNDU0Nzk0OTM3XX0=
+eyJoaXN0b3J5IjpbMzAyNDAzNjI2LDE0NTQ3OTQ5MzddfQ==
 -->
