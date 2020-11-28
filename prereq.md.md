@@ -93,9 +93,11 @@
 
 ## 3.4 Provision Database
 
+
 ## 3.5 Create OFS
 
 ## 3.6 Configure network rules
+
 
 
 
@@ -137,5 +139,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDkzOTUyMF19
+eyJoaXN0b3J5IjpbLTU3NjM0OTg4OCwtNDY0OTM5NTIwXX0=
 -->
