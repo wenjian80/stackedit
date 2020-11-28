@@ -315,11 +315,14 @@ http://[workernodeip]:30305/console/
 **[Run on master node ONLY]**
 
 1. **This script run on on master node ONLY.**
-2. Refer to [promgraph.md](https://github.com/wenjian80/soak8_labs/blob/main/tutorial/promgraph.md) for the exact instruction what need t
+2. These script is a condense version which automate all the command listed in [promgraph.md](https://github.com/wenjian80/soak8_labs/blob/main/tutorial/promgraph.md) 
+
 
 ## Step 18: 18_Prom_Setting.sh
 **[Run on master node ONLY]**
 
+1. **This script run on on master node ONLY.**
+2. These script is a condense version which automate all the command listed in [promgraph.md](https://github.com/wenjian80/soak8_labs/blob/main/tutorial/promgraph.md) 
 
 # Oracle Reference Links
 
@@ -330,6 +333,6 @@ http://[workernodeip]:30305/console/
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczMTUyODg1LDIxMTc4NzQ0NjIsMTQ1ND
-c5NDkzN119
+eyJoaXN0b3J5IjpbLTIxMjE5ODYzNTksMjExNzg3NDQ2MiwxND
+U0Nzk0OTM3XX0=
 -->
