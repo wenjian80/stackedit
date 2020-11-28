@@ -276,7 +276,7 @@ kubectl get pv,pvc -n soans
 
 1. **This script run on on master node ONLY.**
 2. **You need to make change to the below before running the script**
-3.  This script will create a job inside k8 to create the necessary files in the shared storage. it make use of create-domain.sh  to generate the yaml files.
+3.  This script will create a job inside k8 to create the necessary files in the shared storage. it make use of create-domain.sh  to generate the yaml files in weblogic-domains folder under /home/opc/soak8_lab/scripts/weblogic-domains
 
 ## **Change the database vcn name**
 1. Open up [create-domain-inputs.yaml)](https://github.com/wenjian80/soak8_labs/blob/main/scripts/create-domain-inputs.yaml), you need to replace the vcn domain naming with the naming you have jot down in your labinfo.txt.
@@ -315,5 +315,6 @@ sed -i 's/VCNCHANGE/aaa.aaa.com.com/g' create-domain-inputs.yaml
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzg3NDQ2MiwxNDU0Nzk0OTM3XX0=
+eyJoaXN0b3J5IjpbLTE0MzgyMzU4MTksMjExNzg3NDQ2MiwxND
+U0Nzk0OTM3XX0=
 -->
