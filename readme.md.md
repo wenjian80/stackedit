@@ -169,7 +169,7 @@ Get all resource all namespace
 3. The script is reference external database where by k8 will reference database.soans.svc.cluster.local in k8 network context. The conveention is [name].[namespace].svc.cluster.local
 4. You need to change the below ip
 
-     - addresses:
+   >  - addresses:
          - ip: 10.0.0.4
 
 ### **Chnage username and password**
@@ -206,5 +206,5 @@ Get all resource all namespace
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjY4NzA1Nl19
+eyJoaXN0b3J5IjpbLTIwNTE5MDQxNjQsLTgwMjY4NzA1Nl19
 -->
