@@ -1,4 +1,8 @@
 
+# Purpose
+1. The purpose of this lab excerise is to minc the same environment setup on premise.
+2. We are using an external database as the soa repository.
+3. We are installing k8 from scratch. In this lab however we are not creating a HA for master node. For lab purpose we are using 1 master and 1 worker. Deployment are done in worker node as master are
 
 
 # 1. Prereq
@@ -92,5 +96,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTU3MTM1N119
+eyJoaXN0b3J5IjpbLTIwOTIzMjI0NTMsMTI5NTU3MTM1N119
 -->
