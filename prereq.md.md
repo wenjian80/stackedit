@@ -103,7 +103,7 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database2.JPG)
 
-4,  Upload your ssh key. (Open your l)
+4,  Upload your ssh key. (Open your labinfo.txt, check where is your public.pub, drag and drop your public.pub into below)
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database3.JPG)
 
@@ -177,6 +177,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4MzU2MDExLC0xMDg0NTg4MzUxLC0yMj
-AyMTA4MV19
+eyJoaXN0b3J5IjpbNTgzMDg1ODhdfQ==
 -->
