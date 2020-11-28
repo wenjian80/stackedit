@@ -174,7 +174,7 @@ Get all resource all namespace
      -addresses:
              -ip: 10.0.0.4
 
-10### **Chnage username and password**
+### **Chnage username and password**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
 2. Open up your labinfo.txt, find what is your Oracle account username/password and replace it. This is the account to login to container-registry.oracle.com. You must accept the agreement otherwise it will have error.
 3. You need to change the username and password
@@ -191,8 +191,15 @@ PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
 
+1. **This script run on on master node ONLY.**
+2. This script is to create the necessary secret to be used in the later steps
+
 ## Step 12: 12_Mount_File.sh
 **[Run on master and worker node]**
+
+1. **This script run on on master node and worker node.**
+2. this scir
+
 
 ## Step 13: 13_Soa_pv.sh
 **[Run on master node ONLY]**
@@ -219,5 +226,5 @@ PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjIxMzQ4MCwtMTEzMDAxNTQ5NV19
+eyJoaXN0b3J5IjpbMTgxODk0MDA4OSwtMTEzMDAxNTQ5NV19
 -->
