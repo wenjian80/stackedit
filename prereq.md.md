@@ -98,8 +98,27 @@
 
 ## 3.6 Configure network rules
 
+## 3.7 Validate all information
 
+1. you should have all these in place in your notepad by now.
 
+> Cloud Tenancy: mycloud
+
+> Cloud username/password: abc@gmail.com/welcome1
+
+> Oracle account username/password: xyz@gmail.com/welcome1
+
+> Location of private and public key: c:\mykeys
+
+> Master ip: [Fill in> later]
+
+> Worker ip: [Fill in later]
+
+> Database private ip: [Fill in later]
+
+> Database subnet: [Fill in later] 
+
+> NFS ip: [Fill in later]
 
 # 4. Tools
 1. [Download Notepad++](https://portableapps.com/apps/development/notepadpp_portable)
@@ -139,5 +158,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjM0OTg4OCwtNDY0OTM5NTIwXX0=
+eyJoaXN0b3J5IjpbMTI1MjcxMjIzMywtNDY0OTM5NTIwXX0=
 -->
