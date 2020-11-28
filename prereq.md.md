@@ -15,8 +15,8 @@
 
 # 3. Create 2 compute, Dbaas and Oracle File system
 
-## 3.1. Login to [enter link description here](http://cloud.oracle.com/)
-1Oracle Cloud
+## 3.1 Login to oracle cloud
+
 1. Login to [http://cloud.oracle.com/](http://cloud.oracle.com/)
 2. Enter your cloud tenancy name
 3. Login using your using name and password
@@ -64,5 +64,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTUwMzgyNCwtODc3Mzg2NDIwXX0=
+eyJoaXN0b3J5IjpbNTY3MzU1ODY1LC04NzczODY0MjBdfQ==
 -->
