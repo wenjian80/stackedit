@@ -1,7 +1,7 @@
 
 
 # 0. Things to remember
-1. Open a note pad and jot down the below adn save as labinfo.
+1. Open a note pad and jot down the below adn save as labinfo.txt
 
 > Cloud Tenancy: [Fill in later]
 
@@ -100,9 +100,9 @@
 ## 3.6 Configure network rules
 
 
-## 3.7 ValidateCheck all information
+## 3.7 Check all information
 
-1. you should have all these in place in your notepad by now. Below is a example of information you should already have jot down.
+1. you should have all these in place in your notepad by now. Below is a example of information you should already have jot down in labinfo.txt
 
 Below Sample that you shoould have in your notepad.
 > Cloud Tenancy: mycloud
@@ -119,7 +119,7 @@ Below Sample that you shoould have in your notepad.
 
 > Database private ip: 10.0.0.23
 
-> Database subnet: subnet11251534.vcn11251534.oraclevcn.com
+> Database subnet: pdb1.subnet11251534.vcn11251534.oraclevcn.com
 
 > NFS ip: 10.0.0.4
 
@@ -161,5 +161,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODQwMjY4MCw4OTIzNjU2OTFdfQ==
+eyJoaXN0b3J5IjpbLTIyMDIxMDgxXX0=
 -->
