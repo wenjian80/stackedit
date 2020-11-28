@@ -7,7 +7,7 @@
 
 > Cloud username/password: [Fill in later]
 
-> Cloud username/password: [Fill in later]
+> Oracle account username/password: [Fill in later]
 
 > Location of private and public key: [Fill in later]
 
@@ -28,11 +28,15 @@
  3. Click on middleware->soasuite and  accept the agreement. You have to see the green tick shown below.
  ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/registry.JPG)
 
-
+4. You should have put the "Oracle account username/password" detail the notepad.
+5. 
 # 2. Oracle cloud account
 
 1.You will be using oracle cloud account for the labs.
+
 2. You use will the Oracle cloud account create 2 compute (1 for master 1 for worker), database, and oracle file system as the nfs.
+
+3. 4. You should have put the "Cloud Tenancy" and  "Cloud username/password" detail in the notepad.
 
 # 3. Create 2 compute, Dbaas and Oracle File system
 
@@ -118,5 +122,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTAyODY4MiwtMTEzMDYyMDg0MF19
+eyJoaXN0b3J5IjpbLTY0NTUyNjY4NywtMTEzMDYyMDg0MF19
 -->
