@@ -306,10 +306,16 @@ echo "You can check the logs for admin server pod kubectl logs soainfra-adminser
 **[Run on master node ONLY]**
 
 1. **This script run on on master node ONLY.**
-2. Once you finish the script the traefik will as a
-
+2. Once you finish the script the traefik will as a webserver/LB to access the weblogic.
+3. You can access the weblogic console via the below
+```
+http://[workernodeip]:30305/console/
+```
 ## Step 17: 17_Prom_Gra.sh
 **[Run on master node ONLY]**
+
+1. **This script run on on master node ONLY.**
+2. Refer to [promgraph.md](https://github.com/wenjian80/soak8_labs/blob/main/tutorial/promgraph.md) for the exact instruction what need t
 
 ## Step 18: 18_Prom_Setting.sh
 **[Run on master node ONLY]**
@@ -324,6 +330,6 @@ echo "You can check the logs for admin server pod kubectl logs soainfra-adminser
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA3ODIwNTgsMjExNzg3NDQ2MiwxND
-U0Nzk0OTM3XX0=
+eyJoaXN0b3J5IjpbNjczMTUyODg1LDIxMTc4NzQ0NjIsMTQ1ND
+c5NDkzN119
 -->
