@@ -20,32 +20,52 @@
 
 # 3. Lab steps
 
-1. Clone this git project.
-2. Create a folder call soak8_lab in both master and worker node in path /home/opc/
-3. Winscp and copy the scripts folder into /home/opc/soak8_lab/scripts
-4. Chmo
+1. Excercise are running as root for lab purpose. Login to as opc, sudo su.
+2. Clone this git project.
+3. Create a folder call soak8_lab in both master and worker node in path /home/opc/
+4. Winscp and copy the scripts folder into /home/opc/soak8_lab/scripts
+5. sudo su 
+6. chmod -R 777 /home/opc/soak8_lab
+
 
 ## Step 0: 0_InitialMachine_Config.sh
 
 ## Step 1: 1_Docker_Config.sh
 
 ## Step 2: 2_KubeMaster_Firewall_Config.sh
+
 ## Step 3: 3_KubeNode_Firewall_Config.sh
+
 ## Step 4: 4_KubeMaster_Kubernetes_Config.sh
+
 ## Step 5: 5_KubeNode_Kubernetes_Config.sh
+
 ## Step 6: 6_Check_Kubedns.sh
+
 ## Step 7: 7_Kube_proxy.sh
+
 ## Step 8: 8_Git_helm.sh
+
 ## Step 9: 9_Operator.sh
+
 ## Step 10: 10_Rcu.sh
+
 ## Step 11: 11_Soa_secret.sh
+
 ## Step 12: 12_Mount_File.sh
+
 ## Step 13: 13_Soa_pv.sh
+
 ## Step 14: 14_Soa_DomainJob.sh
+
 ## Step 15: 15_Soa_DomainConfig.sh
+
 ## Step 16: 16_Traefik_LB.sh
+
 ## Step 17: 17_Prom_Gra.sh
+
 ## Step 18: 18_Prom_Setting.sh
+
 
 
 
@@ -53,5 +73,5 @@
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjczNzAyNiwtMTIwNTU4MDU0Nl19
+eyJoaXN0b3J5IjpbMjg1ODkyMTAzLC0xMjA1NTgwNTQ2XX0=
 -->
