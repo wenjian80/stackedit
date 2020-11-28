@@ -214,8 +214,12 @@ The output of the script will be as such. It will take around 3-5min.
     #Eg sudo mount 10.0.0.5:/soashared /soashared
     sudo mount [INPUT_ID]:/soashared /soashared
 
-### **Check **
-1. Run the below command to check 
+
+### **Check  Step 13: 13_Soa_pv.sh
+**[Run on master node ONLY]**
+
+1. **This script run on on master node ONLY.**
+12. Run the below command to check 
 
     kubectl get pv,pvc -n soans
 
@@ -246,5 +250,5 @@ The output of the script will be as such. It will take around 3-5min.
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzAxODU4NF19
+eyJoaXN0b3J5IjpbMTcyNjMyMzEwMywtNjMzMDE4NTg0XX0=
 -->
