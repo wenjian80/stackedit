@@ -158,9 +158,9 @@ kubectl get po -n opns
 ```
 
 Get all resource all namespace
-
-    kubectl get all -A
-
+```
+kubectl get all -A
+```
 ## Step 10: 10_Rcu.sh
 **[Run on master node ONLY]**
 
@@ -175,23 +175,24 @@ Get all resource all namespace
 3. The script is reference external database where by k8 will reference database.soans.svc.cluster.local in k8 network context. The conveention is [name].[namespace].svc.cluster.local
 4. You need to change the below ip
 
+```
      -addresses:
              -ip: 10.0.0.4[CHANGEIT]
-
+```
 ### **Chnage username and password**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
 2. Open up your labinfo.txt, find what is your Oracle account username/password and replace it. This is the account to login to container-registry.oracle.com. You must accept the agreement otherwise it will have error.
 3. You need to change the username and password
-
-    --docker-username=$1[CHANGEIT] --docker-password=$2[CHANGEIT]
-
+```
+--docker-username=$1[CHANGEIT] --docker-password=$2[CHANGEIT]
+```
 ### **Change the database vcn name**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace the vcn domain naming with the naming you have jot down in your labinfo.txt.
 2. pdb1 is the pdb database creation that we have provision the database.
 3. You need to change the subnet dns naming that you have jotdown in your labinfo.txt
-
-    PDB1.**subnet11251534.vcn11251534.oraclevcn.com[CHANGEIT]**
-
+```
+PDB1.**subnet11251534.vcn11251534.oraclevcn.com[CHANGEIT]**
+```
 ### **Script output**
 The output of the script will be as such. It will take around 3-5min.
 
@@ -214,9 +215,11 @@ The output of the script will be as such. It will take around 3-5min.
 1. Open up [12_Mount_File.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/12_Mount_File.sh) and replace the [INPUT_ID].
 2. Open up your labinfo,txt, input the nfs ip into here.
 
+```
     #PUT FILE SYSTEM IP HERE
     #Eg sudo mount 10.0.0.5:/soashared /soashared
     sudo mount [INPUT_ID]:/soashared /soashared
+```
 
 ## Step 13: 13_Soa_pv.sh
 **[Run on master node ONLY]**
@@ -234,9 +237,9 @@ weblogicDomainStorageNFSServer: [CHANGEIT]
 
 ### **Check output**
 1. Afrter running the script run the below command to check 
-
-    kubectl get pv,pvc -n soans
-
+```
+kubectl get pv,pvc -n soans
+```
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/pvpvc.JPG)
 
 
@@ -263,5 +266,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzcwNTQwLC0xMjc4NTg4NDYwXX0=
+eyJoaXN0b3J5IjpbMzkxMTc4OTAwXX0=
 -->
