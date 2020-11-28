@@ -3,11 +3,13 @@
 # 0. Things to remember
 1. Open a note pad and jot down the below
 
-> Cloud Tenacy: [Fill in later]
+> Cloud Tenancy: [Fill in later]
 
 > Cloud username/password: [Fill in later]
 
-> Loction of private and public key: [Fill in later]
+> Cloud username/password: [Fill in later]
+
+> Location of private and public key: [Fill in later]
 
 > Master ip: [Fill in> later]
 
@@ -116,5 +118,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA2MjA4NDBdfQ==
+eyJoaXN0b3J5IjpbLTU5NTAyODY4MiwtMTEzMDYyMDg0MF19
 -->
