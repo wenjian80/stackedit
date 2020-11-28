@@ -63,6 +63,9 @@ TODO to explain steps
 ## Step 4: 4_KubeMaster_Kubernetes_Config.sh
 **[Run on master node ONLY]**
 
+1 **This script run on on master node ONLY.**
+2. Once the prereq has been set. We are running the steps to set up this node as the master node.
+3. At the end of this script it will provide you a command for worker
 ## Step 5: 5_KubeNode_Kubernetes_Config.sh
 **[Run on worker node ONLY]**
 
@@ -111,6 +114,6 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjM0NDk3MiwtMTc0NzMwMjUxOCwxMj
-k1NTcxMzU3XX0=
+eyJoaXN0b3J5IjpbLTEyNTkyODQ2OTAsLTE3NDczMDI1MTgsMT
+I5NTU3MTM1N119
 -->
