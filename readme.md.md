@@ -129,6 +129,9 @@ http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kube
 ## Step 8: 8_Git_helm.sh
 **[Run on master node ONLY]**
 
+1. This script is to install Git and Helm 3.
+2. Git is use to pull th
+
 ## Step 9: 9_Operator.sh
 **[Run on master node ONLY]**
 
@@ -165,5 +168,5 @@ http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kube
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDE3NDI3Nl19
+eyJoaXN0b3J5IjpbMTc4OTExODg3NywxNjg0MTc0Mjc2XX0=
 -->
