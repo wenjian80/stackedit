@@ -161,7 +161,9 @@ Get all resource all namespace
 **[Run on master node ONLY]**
 
 1. **This script run on on master node ONLY.**
-2. Open up your [database.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/database.yaml) and searchj 
+2. Open up your [database.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/database.yaml) and search for the ip. You are going to replace it.
+3. Open up your labinfo.txt, find what is your database ip and change that in [database.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/database.yaml) 
+4. The script is reference external database where by k8 will reference database.soans.svc.cluster.local 
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
 
@@ -192,5 +194,5 @@ Get all resource all namespace
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg5MjAzMzgsLTUwNTA1NTY5XX0=
+eyJoaXN0b3J5IjpbODc0ODMxNzE5LC01MDUwNTU2OV19
 -->
