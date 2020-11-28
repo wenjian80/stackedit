@@ -150,8 +150,10 @@
 
 3. Click on soak8vcn -> security list -> Default Security List for soak8vcn
 
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/vnc2.JPG)
 
 
+4. 
 ## 3.7 Check all information
 
 1. you should have all these in place in your notepad by now. Below is a example of information you should already have jot down in labinfo.txt
@@ -213,6 +215,6 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE2ODU4NDMsMTMwMzg2Mjg3MywxNj
+eyJoaXN0b3J5IjpbLTE1Njk4MjMxNzUsMTMwMzg2Mjg3MywxNj
 E0NjAwMjYzXX0=
 -->
