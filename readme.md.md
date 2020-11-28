@@ -77,8 +77,9 @@ TODO to explain steps
 
 5. Run the below command to check if master is ready. Wait until it is ready before proceed step 5.
 
-    kubectl get no
-
+```
+kubectl get no
+```
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/workerready.JPG)
 
 ## Step 5: 5_KubeNode_Kubernetes_Config.sh
@@ -96,7 +97,9 @@ TODO to explain steps
 
 3. Now go in the master node and type the below command to check the status. You see see the worker node is ready.
 
-     kubectl get po
+```
+kubectl get po
+```
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/workerready.JPG)
 
@@ -118,8 +121,9 @@ TODO to explain steps
 4. It will print out a token for you to login to the dashboard.
 5. Run the below command line
 
-    kubectl proxy
-
+```
+kubectl proxy
+```
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/kubectlproxy.JPG)
 
 5. And use the token to login to the dashbaord. The tunnel create in the prereq is use to tunnel to to the dashboard. Press Ctl+C to stop the proxy
@@ -144,14 +148,14 @@ http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kube
 
 
 Get po for namespace soans
-
-    kubectl get po -n soans
-
+```
+kubectl get po -n soans
+```
 
 Get po for namespace opns
-
-    kubectl get po -n opns
-
+```
+kubectl get po -n opns
+```
 
 Get all resource all namespace
 
@@ -224,8 +228,9 @@ The output of the script will be as such. It will take around 3-5min.
 ### **Change the NFS ip**
 1. Open up [create-pv-pvc-inputs.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/create-pv-pvc-inputs.yaml) and look for weblogicDomainStorageNFSServer to change the ip. You need to open up your labinfo.txt and replace the ip for your nfs ip.
 
+```
 weblogicDomainStorageNFSServer: [CHANGEIT]
-
+```
 
 ### **Check output**
 1. Afrter running the script run the below command to check 
@@ -258,5 +263,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg1ODg0NjBdfQ==
+eyJoaXN0b3J5IjpbMTMwMzcwNTQwLC0xMjc4NTg4NDYwXX0=
 -->
