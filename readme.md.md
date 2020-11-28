@@ -219,15 +219,17 @@ The output of the script will be as such. It will take around 3-5min.
 **[Run on master node ONLY]**
 
 1. **This script run on on master node ONLY.**
+2. **You need to make change to the below before running the script**
+3. The script is using 
 
 ### **Change the NFS ip**
 1. Open up [create-pv-pvc-inputs.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/create-pv-pvc-inputs.yaml) and look for weblogicDomainStorageNFSServer to change the ip. You need to open up your labinfo.txt and replace the ip for your nfs ip.
 
-    weblogicDomainStorateType is NFS: weblogicDomainStorageNFSServer: 10.0.0.6
+weblogicDomainStorageNFSServer: [CHANGEIT]
 
 
 ### **Check output**
-1. Run the below command to check 
+1. Afrter running the script run the below command to check 
 
     kubectl get pv,pvc -n soans
 
@@ -259,5 +261,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQ5MjE3MTAsLTYzMzAxODU4NF19
+eyJoaXN0b3J5IjpbLTE5NTQ5MzQ4MzgsLTYzMzAxODU4NF19
 -->
