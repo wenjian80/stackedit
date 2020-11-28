@@ -43,7 +43,7 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute_3.JPG)
 
-5. PLEASE CLICK ON
+5. PLEASE CLICK ON"Save private key"
 
 
 ## 3.3 Provision Worker Compute
@@ -95,5 +95,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDY5MjYwOSwtMTg0NzMwNDQwNF19
+eyJoaXN0b3J5IjpbNzc3MzQ3OTE0LC0xODQ3MzA0NDA0XX0=
 -->
