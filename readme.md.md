@@ -17,19 +17,40 @@
 8. [Kube-Prometheus 0.6.0](https://github.com/prometheus-operator/kube-prometheus/tree/master)
 9. [Oracle SOA 12.2.1.4 container registry ](https://container-registry.oracle.com/pls/apex/f?p=113:4:106885074376611:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:252,252,Oracle%20SOA%20Suite,Oracle%20SOA%20Suite,1,0&cs=3xzEuKbyTjyKLe-4Re2u8kpgzYt9IeGor4rR9qoIDbXZAjmMArQ6_1td_9Ms5dAmFpfbfEjpHiKmLbB9VfMsTBQ)
 10. [Traefik chart 1.87.7/ App 1.7.26](https://github.com/helm/charts/blob/master/stable/traefik/Chart.yaml) 
+
 # 3. Lab steps
 
-TODO
-## Step 0: 1_Docker_Config.sh
+1. Clone this git project.
+2. Win to master and worker node
 
-## Step 2: 2_Docker_Config.sh
+## Step 0: 0_InitialMachine_Config.sh
 
-## Step 2: 2_Docker_Config.sh
+## Step 1: 1_Docker_Config.sh
+
+## Step 2: 2_KubeMaster_Firewall_Config.sh
+## Step 3: 3_KubeNode_Firewall_Config.sh
+## Step 4: 4_KubeMaster_Kubernetes_Config.sh
+## Step 5: 5_KubeNode_Kubernetes_Config.sh
+## Step 6: 6_Check_Kubedns.sh
+## Step 7: 7_Kube_proxy.sh
+## Step 8: 8_Git_helm.sh
+## Step 9: 9_Operator.sh
+## Step 10: 10_Rcu.sh
+## Step 11: 11_Soa_secret.sh
+## Step 12: 12_Mount_File.sh
+## Step 13: 13_Soa_pv.sh
+## Step 14: 14_Soa_DomainJob.sh
+## Step 15: 15_Soa_DomainConfig.sh
+## Step 16: 16_Traefik_LB.sh
+## Step 17: 17_Prom_Gra.sh
+## Step 18: 18_Prom_Setting.sh
+
 
 
 # Reference Links
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MDkzMTM0LC0xMjA1NTgwNTQ2XX0=
+eyJoaXN0b3J5IjpbLTEyMzQ4OTYyODAsLTEyMDU1ODA1NDZdfQ
+==
 -->
