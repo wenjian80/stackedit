@@ -295,6 +295,13 @@ sed -i 's/VCNCHANGE/aaa.aaa.com.com/g' create-domain-inputs.yaml
 ## Step 15: 15_Soa_DomainConfig.sh
 **[Run on master node ONLY]**
 
+1. **This script run on on master node ONLY.**
+2.  Once you run the script it will start up the servers.
+```
+echo "After the command, issue kubectl get po -n soans -w and wait for server to be started"
+
+echo "You can check the logs for admin server pod kubectl logs soainfra-adminserver -n soans --follow"
+```
 ## Step 16: 16_Traefik_LB.sh
 **[Run on master node ONLY]**
 
@@ -315,6 +322,6 @@ sed -i 's/VCNCHANGE/aaa.aaa.com.com/g' create-domain-inputs.yaml
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgyMzU4MTksMjExNzg3NDQ2MiwxND
-U0Nzk0OTM3XX0=
+eyJoaXN0b3J5IjpbNjA4NTU5OTM2LDIxMTc4NzQ0NjIsMTQ1ND
+c5NDkzN119
 -->
