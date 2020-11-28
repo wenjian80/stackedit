@@ -1,5 +1,12 @@
 
-# TODO
+
+# 0. Things to remember
+1. Open a note pad and jot down the below
+Cloud Tenacy:
+Cloud username/password:
+
+
+
 # 1. Oracle account
 
  1. An oracle account need to be created. https://profile.oracle.com/myprofile/account/create-account.jspx
@@ -97,5 +104,6 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwODQ2MDEyLC0xODQ3MzA0NDA0XX0=
+eyJoaXN0b3J5IjpbLTE2MjMxMzc1OTAsLTE4NDczMDQ0MDRdfQ
+==
 -->
