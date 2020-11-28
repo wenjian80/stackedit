@@ -177,9 +177,9 @@ kubectl get all -A
 
 ```
      -addresses:
-             -ip: 10.0.0.4[CHANGEIT]
+             -ip: IPCHANGE
 ```
-5. Run the below to change the ip
+5. You can run the below to change the ip or open up to edit it.
 
 ```
 sed -i 's/IPCHANGE/[YOURIP]/g' database.yaml
@@ -192,7 +192,14 @@ Eg  sed -i 's/IPCHANGE/10.0.0.1/g' database.yaml
 ```
 --docker-username=$1[CHANGEIT] --docker-password=$2[CHANGEIT]
 ```
-### **Change the database vcn name**
+4. You can use the below command to change or open up and edit it
+
+```
+sed -i 's/UIDCHANGE/a.a@a.com/g' 10_Rcu.sh
+sed -i 's/PWDCHANGE/Acs@#!_/g' test.yaml
+```
+
+## **Change the database vcn name**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace the vcn domain naming with the naming you have jot down in your labinfo.txt.
 2. pdb1 is the pdb database creation that we have provision the database.
 3. You need to change the subnet dns naming that you have jotdown in your labinfo.txt
@@ -272,5 +279,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQzNzE5ODEsMzkxMTc4OTAwXX0=
+eyJoaXN0b3J5IjpbLTE2NDc3NDIyMTUsMzkxMTc4OTAwXX0=
 -->
