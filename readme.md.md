@@ -115,7 +115,11 @@ TODO to explain steps
 1. **This script run on on master node ONLY.**
 2. K8 dashboard is not deploy by default.
 3. This script is to enabled the dashboard and create the RBAC for the dashboard.
-4. It will print out a token for you to login to the dashboard
+4. It will print out a token for you to login to the dashboard.
+5. Run the below command line
+
+k
+
 
 ## Step 8: 8_Git_helm.sh
 **[Run on master node ONLY]**
@@ -156,5 +160,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzQ3MDQwNV19
+eyJoaXN0b3J5IjpbLTE1MjA5MTc1MjUsMTg5MzQ3MDQwNV19
 -->
