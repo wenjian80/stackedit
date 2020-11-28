@@ -2,10 +2,15 @@
 
 # 0. Things to remember
 1. Open a note pad and jot down the below
-Cloud Tenacy:
-Cloud username/password:
 
-
+    Cloud Tenacy: [Fill in later]
+    Cloud username/password: [Fill in later]
+    Loction of private and public key: [Fill in later]
+    Master ip: [Fill in later]
+    Worker ip: [Fill in later]
+    Database private ip: [Fill in later]
+    Database subnet: [Fill in later]
+    NFS ip: [Fill in later]
 
 # 1. Oracle account
 
@@ -104,6 +109,5 @@ Cloud username/password:
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjMxMzc1OTAsLTE4NDczMDQ0MDRdfQ
-==
+eyJoaXN0b3J5IjpbLTIyNDg5NTgzMF19
 -->
