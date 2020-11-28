@@ -65,11 +65,17 @@ TODO to explain steps
 
 1 **This script run on on master node ONLY.**
 2. Once the prereq has been set. We are running the steps to set up this node as the master node.
-3. At the end of this script it will provide you a command for worker node to join the cluster and communicate to this master node. You will need to copy the last command 
+3. At the end of this script it will provide you a command for worker node to join the cluster and communicate to this master node. 
 
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/master_ready.JPG)
+
+**4. You will need to copy the last output of the kubeadm join on step 5 for the worker node to join the cluster**
 
 ## Step 5: 5_KubeNode_Kubernetes_Config.sh
 **[Run on worker node ONLY]**
+
+1 **This script run on on worker node ONLY.**
+2. 
 
 ## Step 6: 6_Check_Kubedns.sh
 **[Run on master node ONLY]**
@@ -116,6 +122,6 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTM0OTIyNCwtMTc0NzMwMjUxOCwxMj
+eyJoaXN0b3J5IjpbMTkxODgyNTQ5NywtMTc0NzMwMjUxOCwxMj
 k1NTcxMzU3XX0=
 -->
