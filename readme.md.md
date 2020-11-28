@@ -214,13 +214,12 @@ The output of the script will be as such. It will take around 3-5min.
     #Eg sudo mount 10.0.0.5:/soashared /soashared
     sudo mount [INPUT_ID]:/soashared /soashared
 
-
-### **Check  Step 13: 13_Soa_pv.sh
+## Step 13: 13_Soa_pv.sh
 **[Run on master node ONLY]**
 
 1. **This script run on on master node ONLY.**
 2. **You need to make change to the below before running the script**
-3. The script is using 
+3. The script is using create-pv-pvc.sh to generate the yaml to create the pv and pvc.
 
 ### **Change the NFS ip**
 1. Open up [create-pv-pvc-inputs.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/create-pv-pvc-inputs.yaml) and look for weblogicDomainStorageNFSServer to change the ip. You need to open up your labinfo.txt and replace the ip for your nfs ip.
@@ -235,8 +234,6 @@ weblogicDomainStorageNFSServer: [CHANGEIT]
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/pvpvc.JPG)
 
-## Step 13: 13_Soa_pv.sh
-**[Run on master node ONLY]**
 
 ## Step 14: 14_Soa_DomainJob.sh
 **[Run on master node ONLY]**
@@ -261,5 +258,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5MzQ4MzgsLTYzMzAxODU4NF19
+eyJoaXN0b3J5IjpbLTEzODc4MzA4MzUsLTYzMzAxODU4NF19
 -->
