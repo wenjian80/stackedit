@@ -21,7 +21,9 @@
 # 3. Lab steps
 
 1. Clone this git project.
-2. Win to master and worker node
+2. Create a folder call soak8_lab in both master and worker node in path /home/opc/
+3. Winscp and copy the scripts folder into /home/opc/soak8_lab/scripts
+4. Chmo
 
 ## Step 0: 0_InitialMachine_Config.sh
 
@@ -51,6 +53,5 @@
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ4OTYyODAsLTEyMDU1ODA1NDZdfQ
-==
+eyJoaXN0b3J5IjpbMTA5MjczNzAyNiwtMTIwNTU4MDU0Nl19
 -->
