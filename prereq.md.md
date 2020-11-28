@@ -100,7 +100,7 @@
 
 ## 3.7 Validate all information
 
-1. you should have all these in place in your notepad by now.
+1. you should have all these in place in your notepad by now. Below is a example of information you should already have jot down.
 
 > Cloud Tenancy: mycloud
 
@@ -108,17 +108,17 @@
 
 > Oracle account username/password: xyz@gmail.com/welcome1
 
-> Location of private and public key: c:\mykeys
+> Location of private and public key: c:\mykeys\public.pub c:\mykeys\private.ppk
 
-> Master ip: [Fill in> later]
+> Master ip: 158.101.19.11
 
-> Worker ip: [Fill in later]
+> Worker ip: 158.102.19.11
 
-> Database private ip: [Fill in later]
+> Database private ip: 10.0.0.23
 
-> Database subnet: [Fill in later] 
+> Database subnet: 
 
-> NFS ip: [Fill in later]
+> NFS ip: 10.0.0.4
 
 # 4. Tools
 1. [Download Notepad++](https://portableapps.com/apps/development/notepadpp_portable)
@@ -158,5 +158,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjcxMjIzMywtNDY0OTM5NTIwXX0=
+eyJoaXN0b3J5IjpbLTkzNjkyNTA1NCwtNDY0OTM5NTIwXX0=
 -->
