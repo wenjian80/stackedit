@@ -148,7 +148,8 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/vnc1.JPG)
 
-3. 
+3. Click on soak8vcn -> security list -> Default Security List for soak8vcn
+
 
 
 ## 3.7 Check all information
@@ -212,6 +213,6 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDk2NTIzMCwxMzAzODYyODczLDE2MT
-Q2MDAyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTE2ODU4NDMsMTMwMzg2Mjg3MywxNj
+E0NjAwMjYzXX0=
 -->
