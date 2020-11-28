@@ -4,14 +4,13 @@
 1. Open a note pad and jot down the below
 
 > Cloud Tenacy: [Fill in later]
- Cloud username/password: [Fill in later]
+> Cloud username/password: [Fill in later]
 > Loction of private and public key: [Fill in later]
- Master ip: [Fill in
-> later]
- Worker ip: [Fill in later]
- Database private ip: [Fill in later]
-> Database subnet: [Fill in later]
- NFS ip: [Fill in later]
+>  Master ip: [Fill in> later]
+>  Worker ip: [Fill in later]
+>  Database private ip: [Fill in later]
+>  Database subnet: [Fill in later] 
+>  NFS ip: [Fill in later]
 
 # 1. Oracle account
 
@@ -110,5 +109,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTk1NzMwOF19
+eyJoaXN0b3J5IjpbNDg4MDU3OTk2XX0=
 -->
