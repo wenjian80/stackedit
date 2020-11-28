@@ -161,6 +161,7 @@ Get all resource all namespace
 **[Run on master node ONLY]**
 
 1. **This script run on on master node ONLY.**
+2. This script is to pull a image to run the soa rcu creation against an external database.
 
 ### **Change database ip**
 
@@ -169,12 +170,15 @@ Get all resource all namespace
 3. The script is reference external database where by k8 will reference database.soans.svc.cluster.local in k8 network context. The conveention is [name].[namespace].svc.cluster.local
 4. You need to change the below ip
 
-   >  - addresses:
-         - ip: 10.0.0.4
+     -addresses:
+             -ip: 10.0.0.4
 
 ### **Chnage username and password**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
 2. Open up your labinfo.txt, find what is your Oracle account username/password and replace it. This is the account to login to container-registry.oracle.com. You must accept the agreement otherwise it will have error.
+3. You need to change the username and password
+
+    --docker-username=$1 --docker-password=$2
 
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
@@ -205,6 +209,7 @@ Get all resource all namespace
 # Reference Links
 
 TODO
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE5MDQxNjQsLTgwMjY4NzA1Nl19
+eyJoaXN0b3J5IjpbNDIzODAwNTkyLC04MDI2ODcwNTZdfQ==
 -->
