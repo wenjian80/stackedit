@@ -75,6 +75,12 @@ TODO to explain steps
 
 4. **You will need to copy the last output of the kubeadm join on step 5 for the worker node to join the cluster**
 
+5. Run the below command to check if master is ready. Wait until it is ready before proceed step 5.
+
+
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/workerready.JPG)
+
 ## Step 5: 5_KubeNode_Kubernetes_Config.sh
 **[Run on worker node ONLY]**
 
@@ -88,9 +94,11 @@ TODO to explain steps
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/node_ready.JPG)
 
-3. Now go in the master node and type the below command to check the status.
+3. Now go in the master node and type the below command to check the status. You see see the worker node is ready.
 
      kubectl get po
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/workerready.JPG)
 
 ## Step 6: 6_Check_Kubedns.sh
 **[Run on master node ONLY]**
@@ -140,5 +148,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODc5MTc5Nl19
+eyJoaXN0b3J5IjpbLTE5MjY2OTk0NTAsMjAwODc5MTc5Nl19
 -->
