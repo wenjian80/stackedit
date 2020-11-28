@@ -196,7 +196,7 @@ Eg  sed -i 's/IPCHANGE/10.0.0.1/g' database.yaml
 
 ```
 sed -i 's/UIDCHANGE/a.a@a.com/g' 10_Rcu.sh
-sed -i 's/PWDCHANGE/Acs@#!_/g' test.yaml
+sed -i 's/PWDCHANGE/Acs@#!_/g' 10_Rcu.sh
 ```
 
 ## **Change the database vcn name**
@@ -205,6 +205,11 @@ sed -i 's/PWDCHANGE/Acs@#!_/g' test.yaml
 3. You need to change the subnet dns naming that you have jotdown in your labinfo.txt
 ```
 PDB1.**subnet11251534.vcn11251534.oraclevcn.com[CHANGEIT]**
+```
+4. You can use the below command to change or open up and edit it
+
+```
+sed -i 's/VCNCHANGE/aaa.aaa.com.com/g'10_Rcu.sh
 ```
 ### **Script output**
 The output of the script will be as such. It will take around 3-5min.
@@ -233,7 +238,12 @@ The output of the script will be as such. It will take around 3-5min.
     #Eg sudo mount 10.0.0.5:/soashared /soashared
     sudo mount [INPUT_ID]:/soashared /soashared
 ```
+3. You can run the below to change the ip or open up to edit it.
 
+```
+sed -i 's/IPCHANGE/[YOURIP]/g' 12_Mount_File.sh
+Eg  sed -i 's/IPCHANGE/10.0.0.1/g' d
+```
 ## Step 13: 13_Soa_pv.sh
 **[Run on master node ONLY]**
 
@@ -279,5 +289,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc3NDIyMTUsMzkxMTc4OTAwXX0=
+eyJoaXN0b3J5IjpbODA1NjMyNzQ3LDM5MTE3ODkwMF19
 -->
