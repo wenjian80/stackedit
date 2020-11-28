@@ -122,7 +122,9 @@ TODO to explain steps
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/kubectlproxy.JPG)
 
-5. And use the token to login to the d
+5. And use the token to login to the dashbaord. The tunnel create in the prereq is use to tunnel to to the dashboard. Press Ctl+C to stop the proxy
+
+http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#/login
 
 ## Step 8: 8_Git_helm.sh
 **[Run on master node ONLY]**
@@ -163,5 +165,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTAxNTM4MCwxODkzNDcwNDA1XX0=
+eyJoaXN0b3J5IjpbMTY4NDE3NDI3Nl19
 -->
