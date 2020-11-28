@@ -137,7 +137,12 @@ http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kube
 **[Run on master node ONLY]**
 
 1. **This script run on on master node ONLY.**
-2.  The script pull the necessary 
+2.  The script pull the necessary repo to install weblogic operator and scripts.
+3. it also create the necessary k8 namespace to be used, such as soans, opns.
+4. soans is the namespace to install soa, opns is the namespace to install operator.
+5. You will have to specify -n command to get specific resource such as 
+
+kubect
 ## Step 10: 10_Rcu.sh
 **[Run on master node ONLY]**
 
@@ -171,5 +176,5 @@ http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kube
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjQwMDY4NiwxNjg0MTc0Mjc2XX0=
+eyJoaXN0b3J5IjpbMTE3MDQwNzg1OSwxNjg0MTc0Mjc2XX0=
 -->
