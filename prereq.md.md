@@ -30,6 +30,7 @@
 ## 3.2 Provision Master Compute
 
 
+
 ## 3.3 Provision Worker Compute
 
 
@@ -37,11 +38,9 @@
 
 ## 3.5 Create OFS
 
-## 3.6 Create OFS
+## 3.6 Configure network rules
 
-6. Document steps to create compute, vcn. Sssh key need to zip up with password and share in git.
-7. Document steps to create database
-8. Document steps to create OFS.
+
 
 # 4. Tools
 1. [Download Notepad++](https://portableapps.com/apps/development/notepadpp_portable)
@@ -81,5 +80,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUzOTU2NCwtODc3Mzg2NDIwXX0=
+eyJoaXN0b3J5IjpbLTE3NTgyOTA1NjcsLTg3NzM4NjQyMF19
 -->
