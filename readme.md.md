@@ -14,7 +14,7 @@
 5. [Oracle Dbaas 19.9.0.0.0](https://docs.oracle.com/en/database/oracle/oracle-database/)
 6. [Weblogic Operator 3.0.1 ](https://github.com/oracle/weblogic-kubernetes-operator.git)
 7. [FMW Kubernetes 20.3.3 ](https://github.com/oracle/fmw-kubernetes.git)
-
+8. 
 # 3. Lab steps
 
 TODO
@@ -23,5 +23,5 @@ TODO
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ4NTE4MzJdfQ==
+eyJoaXN0b3J5IjpbLTMyNzQzMjE4MCwtMjA3NDg1MTgzMl19
 -->
