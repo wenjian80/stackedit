@@ -50,7 +50,7 @@ TODO to explain steps
 ## Step 2: 2_KubeMaster_Firewall_Config.sh
 **[Run on master node ONLY]**
 
-
+1 Kuberenetes require certain pre-req and firewall to communcation between master and worker nodes.  Refer to [K8 documentation](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/) for more detat
 ## Step 3: 3_KubeNode_Firewall_Config.sh
 **[Run on worker node ONLY]**
 
@@ -105,5 +105,6 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDczMDI1MTgsMTI5NTU3MTM1N119
+eyJoaXN0b3J5IjpbLTk5NzM4MzkyNywtMTc0NzMwMjUxOCwxMj
+k1NTcxMzU3XX0=
 -->
