@@ -172,21 +172,21 @@ Get all resource all namespace
 4. You need to change the below ip
 
      -addresses:
-             -ip: 10.0.0.4
+             -ip: 10.0.0.4[CHANGEIT]
 
 ### **Chnage username and password**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
 2. Open up your labinfo.txt, find what is your Oracle account username/password and replace it. This is the account to login to container-registry.oracle.com. You must accept the agreement otherwise it will have error.
 3. You need to change the username and password
 
-    --docker-username=$1 --docker-password=$2
+    --docker-username=$1[CHANGEIT] --docker-password=$2[CHANGEIT]
 
 ### **Change the database vcn name**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace the vcn domain naming with the naming you have jot down in your labinfo.txt.
 2. pdb1 is the pdb database creation that we have provision the database.
 3. You need to change the subnet dns naming that you have jotdown in your labinfo.txt
 
-    PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
+    PDB1.**subnet11251534.vcn11251534.oraclevcn.com[CHANGEIT]**
 
 ### **Script output**
 The output of the script will be as such. It will take around 3-5min.
@@ -258,5 +258,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MTU5Nzk5NiwtMTU1Nzg5ODAzNV19
+eyJoaXN0b3J5IjpbLTEyNzg1ODg0NjBdfQ==
 -->
