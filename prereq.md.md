@@ -132,9 +132,11 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/filesystem1.JPG)
 
 
-2. Enter soashared as the name via the "Edit" option. Refer to below screen shot.
+2. Enter soashared as the name via the "Edit" option. Refer to below screen shot and click on create.
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/filesystem_2.JPG)
+
+3. Open up labinfo.txt and jot down the ip.
 
 
 ## 3.6 Configure network rules
@@ -201,5 +203,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ0MTYzOTddfQ==
+eyJoaXN0b3J5IjpbLTk5NzkzNjM4OCwtMTE5NDQxNjM5N119
 -->
