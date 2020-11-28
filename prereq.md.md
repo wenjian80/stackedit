@@ -1,7 +1,7 @@
 
 
 # 0. Things to remember
-1. Open a note pad and jot down the below
+1. Open a note pad and jot down the below adn save as labinfo.
 
 > Cloud Tenancy: [Fill in later]
 
@@ -161,5 +161,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMzY1NjkxXX0=
+eyJoaXN0b3J5IjpbMTI4ODQwMjY4MCw4OTIzNjU2OTFdfQ==
 -->
