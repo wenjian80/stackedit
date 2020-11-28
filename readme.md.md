@@ -103,11 +103,15 @@ TODO to explain steps
 ## Step 6: 6_Check_Kubedns.sh
 **[Run on master node ONLY]**
 
-1. This steps is to check if k8 networking is setup properly and the nodes can communicate via cluster ip and k8 networking.
-2. 
+1. **This script run on on masternode ONLY.**
+2. This steps is to check if k8 networking is setup properly and the nodes can communicate via cluster ip and k8 networking.
+3. You should see the below if all the k8 networking is running fine.
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/dns.JPG)
  
 ## Step 7: 7_Kube_proxy.sh
 **[Run on master node ONLY]**
+
 
 ## Step 8: 8_Git_helm.sh
 **[Run on master node ONLY]**
@@ -148,5 +152,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDgzMDQzNV19
+eyJoaXN0b3J5IjpbMTY1NzI3NzEwMCwxNzUwODMwNDM1XX0=
 -->
