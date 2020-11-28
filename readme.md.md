@@ -85,13 +85,12 @@ TODO to explain steps
 **[Run on master node ONLY]**
 
 ## Step 18: 18_Prom_Setting.sh
-
-
+**[Run on master node ONLY]**
 
 
 # Reference Links
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTczMzgwNSwtMTIwNTU4MDU0Nl19
+eyJoaXN0b3J5IjpbMTI5NTU3MTM1N119
 -->
