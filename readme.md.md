@@ -50,9 +50,9 @@ TODO to explain steps
 ## Step 2: 2_KubeMaster_Firewall_Config.sh
 **[Run on master node ONLY]**
 
-1 **This script run on on master node ONLY.**
+1. **This script run on on master node ONLY.**
 2. Kuberenetes require certain pre-req and firewall to communcation between master and worker nodes.  Refer to [K8 documentation](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/) for more details.
-2. We are disabling the firewall on linux for lab purpose.
+3. We are disabling the firewall on linux for lab purpose.
 
 ## Step 3: 3_KubeNode_Firewall_Config.sh
 **[Run on worker node ONLY]**
@@ -140,5 +140,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NTEyNjI1XX0=
+eyJoaXN0b3J5IjpbMjAwODc5MTc5Nl19
 -->
