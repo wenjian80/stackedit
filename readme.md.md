@@ -77,7 +77,7 @@ TODO to explain steps
 
 5. Run the below command to check if master is ready. Wait until it is ready before proceed step 5.
 
-
+    kubectl get no
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/workerready.JPG)
 
@@ -148,5 +148,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY2OTk0NTAsMjAwODc5MTc5Nl19
+eyJoaXN0b3J5IjpbMTc1MDgzMDQzNV19
 -->
