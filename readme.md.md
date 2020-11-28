@@ -81,9 +81,9 @@ TODO to explain steps
  1. **This script run on on worker node ONLY.**
     **. Open and edit the script on the below line and change it to the previous output in step 4.**
 
-    kubeadm join 10.0.0.9:6443 --token evksam.s0ucudqvgjwc7gia
-    --discovery-token-ca-cert-hash sha256:1628521d351fa4981c230e066b77a11c118d29f558ab867323f3d0ad1aeab6bb
+    kubeadm join 10.0.0.9:6443 --token evksam.s0ucudqvgjwc7gia --discovery-token-ca-cert-hash sha256:1628521d351fa4981c230e066b77a11c118d29f558ab867323f3d0ad1aeab6bb
 
+  
  2.  Once tyou have edit the script and run the command, you will see that your worker node has join the cluster.
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/node_ready.JPG)
@@ -139,5 +139,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTAyNzg3N119
+eyJoaXN0b3J5IjpbLTQ2MjY5MjMyNV19
 -->
