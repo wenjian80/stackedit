@@ -4,7 +4,8 @@
 
  1. An oracle account need to be created. https://profile.oracle.com/myprofile/account/create-account.jspx
  2. Login to https://container-registry.oracle.com, 
- 3. Click on middleware->soasuite and  accept the agreement. 
+ 3. Click on middleware->soasuite and  accept the agreement. You have to see the green tick shown below.
+ 
 
 
 # Oracle cloud account
@@ -30,5 +31,5 @@ setting on no timepout on putty winscp
 Notepad++ need to set the yaml perferences and escape
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2NDMyMTNdfQ==
+eyJoaXN0b3J5IjpbMTM3NTk3MjI0MywzMjY0MzIxM119
 -->
