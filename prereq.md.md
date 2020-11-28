@@ -52,9 +52,10 @@
 
 1. Set your notepad++ for yaml file perferences.
 2. Set yaml files tab to 2 spaces under Setting->Perferences->Langauages
+3. Yaml require 2 space, any tab or escape will cause the whole yaml synatax to go haywire.
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTM2OTc0MV19
+eyJoaXN0b3J5IjpbMTY1MDIzNzE3MV19
 -->
