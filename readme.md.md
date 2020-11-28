@@ -79,7 +79,9 @@ TODO to explain steps
 
     kubeadm join 10.0.0.9:6443 --token evksam.s0ucudqvgjwc7gia --discovery-token-ca-cert-hash sha256:1628521d351fa4981c230e066b77a11c118d29f558ab867323f3d0ad1aeab6bb
 
-3. 
+3. Once tyou have edit the script and run the command, you will see that your worker node has join the cluster.
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/node_ready.JPG)
 
 ## Step 6: 6_Check_Kubedns.sh
 **[Run on master node ONLY]**
@@ -128,6 +130,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjgxMDc5NywtMTc0NzMwMjUxOCwxMj
-k1NTcxMzU3XX0=
+eyJoaXN0b3J5IjpbLTg3MzAzMzQzXX0=
 -->
