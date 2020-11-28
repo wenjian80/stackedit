@@ -188,6 +188,9 @@ Get all resource all namespace
 
 PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 
+The output of the script will be as such. It will take around 3-5min.
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/rcu_complete.JPG)
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
 
@@ -235,6 +238,6 @@ PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMyOTU0MDgsLTExMzAwMTU0OTVdfQ
-==
+eyJoaXN0b3J5IjpbNDI5MDQ2ODI2LC0xMjQzMjk1NDA4LC0xMT
+MwMDE1NDk1XX0=
 -->
