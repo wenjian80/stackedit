@@ -28,8 +28,8 @@
  3. Click on middleware->soasuite and  accept the agreement. You have to see the green tick shown below.
  ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/registry.JPG)
 
-4. You should have put the "Oracle account username/password" detail the notepad.
-5. 
+4. You should have put the "Oracle account username/password" detail in the notepad.
+
 # 2. Oracle cloud account
 
 1.You will be using oracle cloud account for the labs.
@@ -72,9 +72,13 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute_4.JPG)
 
+6. Click on "compute" and jot down the public ip of your master node.
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute5.jpg)
 
 ## 3.3 Provision Worker Compute
 
+1. Do the same steps as 
 
 ## 3.4 Provision Database
 
@@ -122,5 +126,6 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTUyNjY4NywtMTEzMDYyMDg0MF19
+eyJoaXN0b3J5IjpbLTE0Mzk4NDY3MzcsLTExMzA2MjA4NDBdfQ
+==
 -->
