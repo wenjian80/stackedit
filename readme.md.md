@@ -38,9 +38,14 @@ TODO to explain steps
 ## Step 0: 0_InitialMachine_Config.sh
 **[Run on master and worker node]**
 
+1. This script need to run on both master and worker node.
+2. We are setting up the yum repository in this script So the installation will make use the of the yum repository.
+
 ## Step 1: 1_Docker_Config.sh
 **[Run on master and worker node]**
 
+1. This script need to run on both master and worker node.
+2. We are using dokcer version 19.03.1.ol
 ## Step 2: 2_KubeMaster_Firewall_Config.sh
 **[Run on master node ONLY]**
 
@@ -98,5 +103,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDE4NjIsMTI5NTU3MTM1N119
+eyJoaXN0b3J5IjpbLTE4NDc4OTcyODAsMTI5NTU3MTM1N119
 -->
