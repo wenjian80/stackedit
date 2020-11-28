@@ -162,6 +162,7 @@ Get all resource all namespace
 
 1. **This script run on on master node ONLY.**
 2. This script is to pull a image to run the soa rcu creation against an external database.
+3. **You need to make change to the below before running the script**
 
 ### **Change database ip**
 
@@ -179,6 +180,9 @@ Get all resource all namespace
 3. You need to change the username and password
 
     --docker-username=$1 --docker-password=$2
+
+### **Change the database vcn name**
+1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
 
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
@@ -211,5 +215,5 @@ Get all resource all namespace
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzODAwNTkyLC04MDI2ODcwNTZdfQ==
+eyJoaXN0b3J5IjpbLTExMzczMzQzMzQsLTgwMjY4NzA1Nl19
 -->
