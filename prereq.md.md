@@ -33,7 +33,10 @@
 
 2. Click on "Create Instance"
 
-3. Key in the follow
+3. Key in the follow shown below.
+
+
+
 
 ## 3.3 Provision Worker Compute
 
@@ -84,5 +87,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzc1MzM2NSwtODc3Mzg2NDIwXX0=
+eyJoaXN0b3J5IjpbLTIwMDc3MDM3NzksLTg3NzM4NjQyMF19
 -->
