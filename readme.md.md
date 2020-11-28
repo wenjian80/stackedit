@@ -2,7 +2,7 @@
 
 
 # 1. Prereq
-1. Please follow the prereq to set your environment ready.  Follow the instClick on [prereq](https://github.com/wenjian80/soak8_labs/blob/main/tutorial/prereq.md)
+1. Please follow the prereq to set your environment ready.  Follow the instruction on [prereq](https://github.com/wenjian80/soak8_labs/blob/main/tutorial/prereq.md)
 
 2. You should already have your labinfo.txt fill up on hand. We will be referencing those info in these exercise.
 
@@ -17,8 +17,11 @@
 
 # 3. Lab steps
 
+TODO
 
 # Reference Links
+
+TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDk1MjY5OCwxMjM3NzUyODU2XX0=
+eyJoaXN0b3J5IjpbLTIwNzQ4NTE4MzJdfQ==
 -->
