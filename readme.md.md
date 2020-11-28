@@ -219,7 +219,13 @@ The output of the script will be as such. It will take around 3-5min.
 **[Run on master node ONLY]**
 
 1. **This script run on on master node ONLY.**
-12. Run the below command to check 
+
+### **Change the NFS ip**
+1. Open up [create-pv-pvc-inputs.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/create-pv-pvc-inputs.yaml)
+
+
+### **Check output**
+1. Run the below command to check 
 
     kubectl get pv,pvc -n soans
 
@@ -250,5 +256,5 @@ The output of the script will be as such. It will take around 3-5min.
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjMyMzEwMywtNjMzMDE4NTg0XX0=
+eyJoaXN0b3J5IjpbMTgwOTkyMzYzMiwtNjMzMDE4NTg0XX0=
 -->
