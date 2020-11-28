@@ -2,7 +2,9 @@
 # Purpose
 1. The purpose of this lab excerise is to minc the same environment setup on premise.
 2. We are using an external database as the soa repository.
-3. We are installing k8 from scratch. In this lab however we are not creating a HA for master node. For lab purpose we are using 1 master and 1 worker. Deployment are done in worker node as master are
+3. We are installing k8 from scratch. In this lab however we are not creating a HA for master node. We can refer to K8 documentation on how to set it up.
+4. For lab purpose we are using 1 master and 1 worker. Deployment are done in worker node as master are not tainted to run workload.
+5. Since soa on k8 require a PV/PVC, in on prem context it will either a NFS or san storage etc. In this lab we are using Oracle Cloud File System to act as the NFS.
 
 
 # 1. Prereq
@@ -96,5 +98,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIzMjI0NTMsMTI5NTU3MTM1N119
+eyJoaXN0b3J5IjpbLTczMDE4NjIsMTI5NTU3MTM1N119
 -->
