@@ -186,7 +186,7 @@ Get all resource all namespace
 2. pdb1 is the pdb database creation that we have provision the database.
 3. You need to change the subnet dns naming that you have jotdown in your labinfo.txt
 
-PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
+    PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 
 ### **Script output**
 The output of the script will be as such. It will take around 3-5min.
@@ -258,5 +258,6 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc4MzA4MzVdfQ==
+eyJoaXN0b3J5IjpbLTE1NTc4OTgwMzUsLTEzODc4MzA4MzVdfQ
+==
 -->
