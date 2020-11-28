@@ -198,8 +198,12 @@ PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 **[Run on master and worker node]**
 
 1. **This script run on on master node and worker node.**
-2. this scir
+2. This script is into nfs component in the OS. It also mount the file system into both master and worker node.
+3. **You need to make change to the below before running the script**
 
+### **Change the NFS ip**
+1. Open up [12_Mount_File.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/12_Mount_File.sh) and replace the [INPUT_ID].
+2. Open up your labinfo,txt 
 
 ## Step 13: 13_Soa_pv.sh
 **[Run on master node ONLY]**
@@ -226,5 +230,5 @@ PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODk0MDA4OSwtMTEzMDAxNTQ5NV19
+eyJoaXN0b3J5IjpbLTEwMzg5NTkwLC0xMTMwMDE1NDk1XX0=
 -->
