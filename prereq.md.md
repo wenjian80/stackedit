@@ -99,7 +99,17 @@
 
 2. Click on create db system.
 
-3.
+3. Name your database as "soadb"
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database2.JPG)
+
+4,  Upload your ssh key. (Open your l)
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database3.JPG)
+
+
+
+
 ## 3.5 Create OFS
 
 
@@ -167,5 +177,6 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ1ODgzNTEsLTIyMDIxMDgxXX0=
+eyJoaXN0b3J5IjpbMzI4MzU2MDExLC0xMDg0NTg4MzUxLC0yMj
+AyMTA4MV19
 -->
