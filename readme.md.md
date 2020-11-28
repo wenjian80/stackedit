@@ -160,6 +160,8 @@ Get all resource all namespace
 ## Step 10: 10_Rcu.sh
 **[Run on master node ONLY]**
 
+1. **This script run on on master node ONLY.**
+2. Open up your [database.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/database.yaml) and searchj 
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
 
@@ -190,5 +192,5 @@ Get all resource all namespace
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTA1NTY5XX0=
+eyJoaXN0b3J5IjpbLTE5Njg5MjAzMzgsLTUwNTA1NTY5XX0=
 -->
