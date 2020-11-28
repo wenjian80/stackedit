@@ -329,7 +329,7 @@ Prometheus
 http://[workernodeip]:32101/graph
 
 Grafana (admin/admin as default username and password)
-http://158.101.19.71:32100/login 
+http://[workernodeip]:32100/login 
 ```
 # Oracle Reference Links
 
@@ -340,6 +340,5 @@ http://158.101.19.71:32100/login
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTM1Njc2MiwyMTE3ODc0NDYyLDE0NT
-Q3OTQ5MzddfQ==
+eyJoaXN0b3J5IjpbMTM4MzAyMzI1XX0=
 -->
