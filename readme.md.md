@@ -83,6 +83,7 @@ TODO to explain steps
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/node_ready.JPG)
 
+
 ## Step 6: 6_Check_Kubedns.sh
 **[Run on master node ONLY]**
 
@@ -130,5 +131,5 @@ TODO to explain steps
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzAzMzQzXX0=
+eyJoaXN0b3J5IjpbMTc0MDA0ODIyNywtODczMDMzNDNdfQ==
 -->
