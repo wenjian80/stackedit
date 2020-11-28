@@ -10,7 +10,7 @@
 
 # Oracle cloud account
 
-1.A SE trail will be created for the labs. You will be given an acccount 
+1.You will be using oracle cloud account for the labs.
 2. You use will the Oracle cloud account create 2 compute (1 for master 1 for worker), database, and oracle file system as the nfs.
 
 # Create 2 compute, Dbaas and Oracle File system
@@ -31,5 +31,5 @@ setting on no timepout on putty winscp
 Notepad++ need to set the yaml perferences and escape
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDkwOTEyN119
+eyJoaXN0b3J5IjpbODIyNzY4NTQ1LDEzOTQ5MDkxMjddfQ==
 -->
