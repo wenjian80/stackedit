@@ -242,7 +242,7 @@ The output of the script will be as such. It will take around 3-5min.
 
 ```
 sed -i 's/IPCHANGE/[YOURIP]/g' 12_Mount_File.sh
-Eg  sed -i 's/IPCHANGE/10.0.0.1/g' d
+Eg  sed -i 's/IPCHANGE/10.0.0.1/g' 12_Mount_File.sh
 ```
 ## Step 13: 13_Soa_pv.sh
 **[Run on master node ONLY]**
@@ -257,7 +257,12 @@ Eg  sed -i 's/IPCHANGE/10.0.0.1/g' d
 ```
 weblogicDomainStorageNFSServer: [CHANGEIT]
 ```
+2. You can run the below to change the ip or open up to edit it.
 
+```
+sed -i 's/IPCHANGE/[YOURIP]/g' create-pv-pvc-inputs.yaml
+Eg  sed -i 's/IPCHANGE/10.0.0.1/g' create-pv-pvc-inputs.yaml
+```
 ### **Check output**
 1. Afrter running the script run the below command to check 
 ```
@@ -289,5 +294,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NjMyNzQ3LDM5MTE3ODkwMF19
+eyJoaXN0b3J5IjpbMTQ1NDc5NDkzN119
 -->
