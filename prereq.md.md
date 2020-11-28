@@ -43,7 +43,9 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute_3.JPG)
 
-5. PLEASE CLICK ON"Save private key"
+5. **PLEASE CLICK ON "Save private key" and "Save public key".** Save your private key name as "private.ppk" and save your public key as "public.pub". You need these key to login to the compute as well as later steps.
+
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/compute_4.JPG)
 
 
 ## 3.3 Provision Worker Compute
@@ -95,5 +97,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MzQ3OTE0LC0xODQ3MzA0NDA0XX0=
+eyJoaXN0b3J5IjpbOTcwODQ2MDEyLC0xODQ3MzA0NDA0XX0=
 -->
