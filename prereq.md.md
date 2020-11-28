@@ -224,6 +224,9 @@ Below Sample that you shoould have in your notepad.
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/winscpkeepalive.JPG)
 
+## 4.4 Putty tunnel
+1. Create a putty tunnel
+
 ## 4.3 Notepad++ Perferences
 
 1. Set your notepad++ for yaml file perferences.
@@ -233,5 +236,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzYyOTQyM119
+eyJoaXN0b3J5IjpbLTE1MTU4NzU3OTMsMTYyMzYyOTQyM119
 -->
