@@ -15,10 +15,16 @@
 
 # 3. Create 2 compute, Dbaas and Oracle File system
 
-1. Login to [enter link description here](http://cloud.oracle.com/)
-1. Document steps to create compute, vcn. Sssh key need to zip up with password and share in git.
-2. Document steps to create database
-3. Document steps to create OFS.
+## 3.1. Login to [enter link description here](http://cloud.oracle.com/)
+1Oracle Cloud
+1. Login to [http://cloud.oracle.com/](http://cloud.oracle.com/)
+2. Enter your cloud tenancy name
+3. Login using your using name and password
+
+
+4. Document steps to create compute, vcn. Sssh key need to zip up with password and share in git.
+25. Document steps to create database
+36. Document steps to create OFS.
 
 # 4. Tools
 1. [Download Notepad++](https://portableapps.com/apps/development/notepadpp_portable)
@@ -58,5 +64,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzM4NjQyMF19
+eyJoaXN0b3J5IjpbLTk3OTUwMzgyNCwtODc3Mzg2NDIwXX0=
 -->
