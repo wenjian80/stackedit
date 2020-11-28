@@ -134,6 +134,8 @@
 
 2. Enter soashared as the name via the "Edit" option. Refer to below screen shot.
 
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/filesystem_2.JPG)
+
 
 ## 3.6 Configure network rules
 
@@ -199,6 +201,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMxMTMyNzIsLTIwNzk2MTA0OTgsMT
-YzOTk3NDIyOF19
+eyJoaXN0b3J5IjpbLTExOTQ0MTYzOTddfQ==
 -->
