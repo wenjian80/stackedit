@@ -93,8 +93,13 @@
 
 ## 3.4 Provision Database
 
-1. Click on 
+1. Click on Overview -> Bare Metal, VM DB Systems
 
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database1.JPG)
+
+2. Click on create db system.
+
+3.
 ## 3.5 Create OFS
 
 
@@ -162,5 +167,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzIxODEyOSwtMjIwMjEwODFdfQ==
+eyJoaXN0b3J5IjpbLTEwODQ1ODgzNTEsLTIyMDIxMDgxXX0=
 -->
