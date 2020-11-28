@@ -331,6 +331,10 @@ http://[workernodeip]:32101/graph
 Grafana (admin/admin as default username and password)
 http://[workernodeip]:32100/login 
 ```
+
+## **Import dashboard**
+1. Import 
+
 # Oracle Reference Links
 
 1. [Weblogic Operator doc](https://oracle.github.io/weblogic-kubernetes-operator/userguide/introduction/introduction/)
@@ -340,5 +344,5 @@ http://[workernodeip]:32100/login
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzAyMzI1XX0=
+eyJoaXN0b3J5IjpbMTQ4MzAyNzM0NiwxMzgzMDIzMjVdfQ==
 -->
