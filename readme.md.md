@@ -276,7 +276,20 @@ kubectl get pv,pvc -n soans
 
 1. **This script run on on master node ONLY.**
 2. **You need to make change to the below before running the script**
-1. This script will create a job inside k8 to create the necessary files in the shared storage.
+3.  This script will create a job inside k8 to create the necessary files in the shared storage. it make use of create-domain.sh  to generate the yaml files.
+
+## **Change the database vcn name**
+1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace the vcn domain naming with the naming you have jot down in your labinfo.txt.
+2. pdb1 is the pdb database creation that we have provision the database.
+3. You need to change the subnet dns naming that you have jotdown in your labinfo.txt
+```
+PDB1.**subnet11251534.vcn11251534.oraclevcn.com[CHANGEIT]**
+```
+4. You can use the below command to change or open up and edit it
+
+```
+sed -i 's/VCNCHANGE/aaa.aaa.com.com/g'10_Rcu.sh
+```
 
 ## Step 15: 15_Soa_DomainConfig.sh
 **[Run on master node ONLY]**
@@ -301,5 +314,5 @@ kubectl get pv,pvc -n soans
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNDAzNjI2LDE0NTQ3OTQ5MzddfQ==
+eyJoaXN0b3J5IjpbLTEzMjM5OTM2OTYsMTQ1NDc5NDkzN119
 -->
