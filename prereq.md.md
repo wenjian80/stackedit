@@ -158,6 +158,7 @@
 
 5. Click on Add Ingress. Open all all internal ip to all udp port
 
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/vcn4.JPG)
 
 6.  Click on Add Ingress. Open all all external ip  to all tcp port
 
@@ -165,6 +166,7 @@
 
 7.  Click on Add Ingress. Open all all external ip  to all udp port
 
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/vcn6.JPG)
 
 ## 3.7 Check all information
 
@@ -227,6 +229,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTg0OTYxMywxMzAzODYyODczLDE2MT
-Q2MDAyNjNdfQ==
+eyJoaXN0b3J5IjpbNDMzNDE3MDM1XX0=
 -->
