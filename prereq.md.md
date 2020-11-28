@@ -31,6 +31,7 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/putty_key.JPG)
 
 2. Set the time out for your session
+
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/putty_timeout.JPG)
 
 
@@ -38,5 +39,5 @@
 Notepad++ need to set the yaml perferences and escape
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxNjU1NDldfQ==
+eyJoaXN0b3J5IjpbLTczMDcyODY0MV19
 -->
