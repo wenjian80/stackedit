@@ -27,7 +27,17 @@
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/oracelcloud_2.JPG)
 
-## 3.2 Provision Database
+## 3.2 Provision Master Compute
+
+
+## 3.3 Provision Worker Compute
+
+
+## 3.4 Provision Database
+
+## 3.5 Create OFS
+
+## 3.6 Create OFS
 
 6. Document steps to create compute, vcn. Sssh key need to zip up with password and share in git.
 7. Document steps to create database
@@ -71,5 +81,5 @@
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3OTE5MjIsLTg3NzM4NjQyMF19
+eyJoaXN0b3J5IjpbLTEzMTUzOTU2NCwtODc3Mzg2NDIwXX0=
 -->
