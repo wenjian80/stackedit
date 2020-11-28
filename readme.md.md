@@ -182,7 +182,11 @@ Get all resource all namespace
     --docker-username=$1 --docker-password=$2
 
 ### **Change the database vcn name**
-1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
+1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace the vcn domain naming with the naming you have jot down in your labinfo.txt.
+2. pdb1 is the pdb database creation that we have provision the database.
+3. You need to change the subnet dns naming that you have jotdown in your labinfo.txt
+
+PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
@@ -215,5 +219,5 @@ Get all resource all namespace
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzczMzQzMzQsLTgwMjY4NzA1Nl19
+eyJoaXN0b3J5IjpbLTExMzAwMTU0OTVdfQ==
 -->
