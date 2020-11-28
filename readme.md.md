@@ -179,6 +179,12 @@ kubectl get all -A
      -addresses:
              -ip: 10.0.0.4[CHANGEIT]
 ```
+5. Run the below to change the ip
+
+```
+sed -i 's/IPCHANGE/[YOURIP]/g' database.yaml
+Eg  sed -i 's/IPCHANGE/10.0.0.1/g' database.yaml
+```
 ### **Chnage username and password**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
 2. Open up your labinfo.txt, find what is your Oracle account username/password and replace it. This is the account to login to container-registry.oracle.com. You must accept the agreement otherwise it will have error.
@@ -266,5 +272,5 @@ TODO
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMTc4OTAwXX0=
+eyJoaXN0b3J5IjpbLTE1MTQzNzE5ODEsMzkxMTc4OTAwXX0=
 -->
