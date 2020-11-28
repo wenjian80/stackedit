@@ -25,15 +25,17 @@
 3. [Download Winscp](https://portableapps.com/apps/internet/winscp_portable)
 
 ## Putty timeout and ssh key
+
 1. Set the private key for your putty
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/putty_key.JPG)
+
 2. Set the time out for your session
-[enter link description here](https://github.com/wenjian80/soak8_labs/blob/main/img/putty_timeout.JPG)
+![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/putty_timeout.JPG)
 
 
 ## Notepad++ Perferences
 Notepad++ need to set the yaml perferences and escape
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjIwMTI4OV19
+eyJoaXN0b3J5IjpbMzkxNzY0NTcxXX0=
 -->
