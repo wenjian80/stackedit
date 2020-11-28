@@ -142,7 +142,14 @@ http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kube
 4. soans is the namespace to install soa, opns is the namespace to install operator.
 5. You will have to specify -n command to get specific resource such as 
 
-kubect
+Get po for namespace soans
+    kubectl get po -n soans
+
+Get po for namespace opns
+kubectl get po -n opns
+
+Get all resource all namespace
+kubectl get all -A
 ## Step 10: 10_Rcu.sh
 **[Run on master node ONLY]**
 
@@ -176,5 +183,5 @@ kubect
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDQwNzg1OSwxNjg0MTc0Mjc2XX0=
+eyJoaXN0b3J5IjpbLTEzNjM2MzUyNywxNjg0MTc0Mjc2XX0=
 -->
