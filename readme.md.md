@@ -305,6 +305,8 @@ echo "You can check the logs for admin server pod kubectl logs soainfra-adminser
 ## Step 16: 16_Traefik_LB.sh
 **[Run on master node ONLY]**
 
+1. **This script run on on master node ONLY.**
+2. Once you finish the script the traefik will as a
 
 ## Step 17: 17_Prom_Gra.sh
 **[Run on master node ONLY]**
@@ -322,6 +324,6 @@ echo "You can check the logs for admin server pod kubectl logs soainfra-adminser
 5. [Oracle fmw docker images](https://github.com/oracle/docker-images)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NTU5OTM2LDIxMTc4NzQ0NjIsMTQ1ND
-c5NDkzN119
+eyJoaXN0b3J5IjpbLTE4NTA3ODIwNTgsMjExNzg3NDQ2MiwxND
+U0Nzk0OTM3XX0=
 -->
