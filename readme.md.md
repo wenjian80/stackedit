@@ -16,6 +16,7 @@
 7. [FMW Kubernetes 20.3.3 ](https://github.com/oracle/fmw-kubernetes.git)
 8. [Kube-Prometheus 0.6.0](https://github.com/prometheus-operator/kube-prometheus/tree/master)
 9. [Oracle SOA 12.2.1.4 container registry ](https://container-registry.oracle.com/pls/apex/f?p=113:4:106885074376611:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:252,252,Oracle%20SOA%20Suite,Oracle%20SOA%20Suite,1,0&cs=3xzEuKbyTjyKLe-4Re2u8kpgzYt9IeGor4rR9qoIDbXZAjmMArQ6_1td_9Ms5dAmFpfbfEjpHiKmLbB9VfMsTBQ)
+10.[Traefik chart 1.8.7](https://github.com/helm/charts/blob/master/stable/traefik/Chart.yaml) 
 # 3. Lab steps
 
 TODO
@@ -24,5 +25,6 @@ TODO
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE4Mzc4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE2MjgzNzQ4MDksLTEyNDE4Mzc4MDNdfQ
+==
 -->
