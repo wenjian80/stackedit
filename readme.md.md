@@ -188,9 +188,11 @@ Get all resource all namespace
 
 PDB1.**subnet11251534.vcn11251534.oraclevcn.com**
 
+### **Script output**
 The output of the script will be as such. It will take around 3-5min.
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/rcu_complete.JPG)
+
 ## Step 11: 11_Soa_secret.sh
 **[Run on master node ONLY]**
 
@@ -212,6 +214,7 @@ The output of the script will be as such. It will take around 3-5min.
     #Eg sudo mount 10.0.0.5:/soashared /soashared
     sudo mount [INPUT_ID]:/soashared /soashared
 
+### **Check **
 
 ## Step 13: 13_Soa_pv.sh
 **[Run on master node ONLY]**
@@ -238,5 +241,5 @@ The output of the script will be as such. It will take around 3-5min.
 TODO
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5MDQ2ODI2XX0=
+eyJoaXN0b3J5IjpbLTIwNTgwMTkyMzQsNDI5MDQ2ODI2XX0=
 -->
