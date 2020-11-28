@@ -99,7 +99,7 @@
 
 2. Click on create db system.
 
-3. Name your database as "soadb"
+3. Name your DB system as "soadb". hostname as "soadb"
 
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/database2.JPG)
 
@@ -186,5 +186,5 @@ Below Sample that you shoould have in your notepad.
 ![enter image description here](https://github.com/wenjian80/soak8_labs/blob/main/img/notepadyaml.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MTEwMzczLDE2NTcyOTIxMDddfQ==
+eyJoaXN0b3J5IjpbLTE5NzI2MTc0MSwxNjU3MjkyMTA3XX0=
 -->
