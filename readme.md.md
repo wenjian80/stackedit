@@ -118,8 +118,9 @@ TODO to explain steps
 4. It will print out a token for you to login to the dashboard.
 5. Run the below command line
 
-k
+    kubectl proxy
 
+5. Run the below command line
 
 ## Step 8: 8_Git_helm.sh
 **[Run on master node ONLY]**
@@ -160,5 +161,5 @@ k
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA5MTc1MjUsMTg5MzQ3MDQwNV19
+eyJoaXN0b3J5IjpbLTIxMzM5NTk0MSwxODkzNDcwNDA1XX0=
 -->
