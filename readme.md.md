@@ -167,6 +167,10 @@ Get all resource all namespace
 1. Open up your [database.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/database.yaml) and search for the ip. You are going to replace it.
 2. Open up your labinfo.txt, find what is your database ip and change that in [database.yaml](https://github.com/wenjian80/soak8_labs/blob/main/scripts/database.yaml) 
 3. The script is reference external database where by k8 will reference database.soans.svc.cluster.local in k8 network context. The conveention is [name].[namespace].svc.cluster.local
+4. You need to change the below ip
+
+     - addresses:
+         - ip: 10.0.0.4
 
 ### **Chnage username and password**
 1. Open up [10_Rcu.sh](https://github.com/wenjian80/soak8_labs/blob/main/scripts/10_Rcu.sh), you need to replace $1 and $2 with your oracle account username and password
@@ -202,5 +206,5 @@ Get all resource all namespace
 
 TODO
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYyNTU0OTMsLTUwNTA1NTY5XX0=
+eyJoaXN0b3J5IjpbLTgwMjY4NzA1Nl19
 -->
